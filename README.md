@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nisarghub
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Java
 - 📫 How to reach me ...
 - mr.nisarg.27 <-- my insta
 
